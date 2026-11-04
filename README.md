@@ -1,2 +1,0 @@
-# MKUIMIK
-pub
